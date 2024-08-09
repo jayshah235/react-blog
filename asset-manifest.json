@@ -1,15 +1,46 @@
 {
   "files": {
-    "main.css": "/react-blog/static/css/main.e6c13ad2.css",
-    "main.js": "/react-blog/static/js/main.2f91aaf4.js",
+    "main.css": "/react-blog/static/css/main.5ff9b6b0.css",
+    "main.js": "/react-blog/static/js/main.9e415af6.js",
     "static/js/453.7ab4befc.chunk.js": "/react-blog/static/js/453.7ab4befc.chunk.js",
+    "static/css/997.a9c3cebf.chunk.css": "/react-blog/static/css/997.a9c3cebf.chunk.css",
+    "static/js/997.e223ad1d.chunk.js": "/react-blog/static/js/997.e223ad1d.chunk.js",
+    "static/css/662.a9c3cebf.chunk.css": "/react-blog/static/css/662.a9c3cebf.chunk.css",
+    "static/js/662.dfffe898.chunk.js": "/react-blog/static/js/662.dfffe898.chunk.js",
+    "static/css/995.a9c3cebf.chunk.css": "/react-blog/static/css/995.a9c3cebf.chunk.css",
+    "static/js/995.d8810ec0.chunk.js": "/react-blog/static/js/995.d8810ec0.chunk.js",
+    "static/css/890.a9c3cebf.chunk.css": "/react-blog/static/css/890.a9c3cebf.chunk.css",
+    "static/js/890.f3822791.chunk.js": "/react-blog/static/js/890.f3822791.chunk.js",
+    "static/css/835.a9c3cebf.chunk.css": "/react-blog/static/css/835.a9c3cebf.chunk.css",
+    "static/js/835.04cb5fae.chunk.js": "/react-blog/static/js/835.04cb5fae.chunk.js",
+    "static/media/plainJs.png": "/react-blog/static/media/plainJs.717e4ed5ad96c02c1012.png",
+    "static/media/tech.png": "/react-blog/static/media/tech.c75bd41f3162181fa8be.png",
+    "static/media/jsx.png": "/react-blog/static/media/jsx.b4f9771faf00c17ee8ec.png",
+    "static/media/componentBased.png": "/react-blog/static/media/componentBased.cc65acc947474a90624a.png",
+    "static/media/outPut.png": "/react-blog/static/media/outPut.8b6581c85f05a848f61a.png",
+    "static/media/indexFile.png": "/react-blog/static/media/indexFile.684b1013b626b3ca9964.png",
+    "static/media/logo.png": "/react-blog/static/media/logo.e648a71158884495e955.png",
+    "static/media/classFunction.JPG": "/react-blog/static/media/classFunction.3d22eb3cc67271ebe15f.JPG",
+    "static/media/virtualDom.webp": "/react-blog/static/media/virtualDom.2efcb7ae0e5424377744.webp",
+    "static/media/components.png": "/react-blog/static/media/components.8055b8ecc9e8f3fa903a.png",
+    "static/media/hooks.jpg": "/react-blog/static/media/hooks.5e3cbdb4f1aee75743ca.jpg",
     "index.html": "/react-blog/index.html",
-    "main.e6c13ad2.css.map": "/react-blog/static/css/main.e6c13ad2.css.map",
-    "main.2f91aaf4.js.map": "/react-blog/static/js/main.2f91aaf4.js.map",
-    "453.7ab4befc.chunk.js.map": "/react-blog/static/js/453.7ab4befc.chunk.js.map"
+    "main.5ff9b6b0.css.map": "/react-blog/static/css/main.5ff9b6b0.css.map",
+    "main.9e415af6.js.map": "/react-blog/static/js/main.9e415af6.js.map",
+    "453.7ab4befc.chunk.js.map": "/react-blog/static/js/453.7ab4befc.chunk.js.map",
+    "997.a9c3cebf.chunk.css.map": "/react-blog/static/css/997.a9c3cebf.chunk.css.map",
+    "997.e223ad1d.chunk.js.map": "/react-blog/static/js/997.e223ad1d.chunk.js.map",
+    "662.a9c3cebf.chunk.css.map": "/react-blog/static/css/662.a9c3cebf.chunk.css.map",
+    "662.dfffe898.chunk.js.map": "/react-blog/static/js/662.dfffe898.chunk.js.map",
+    "995.a9c3cebf.chunk.css.map": "/react-blog/static/css/995.a9c3cebf.chunk.css.map",
+    "995.d8810ec0.chunk.js.map": "/react-blog/static/js/995.d8810ec0.chunk.js.map",
+    "890.a9c3cebf.chunk.css.map": "/react-blog/static/css/890.a9c3cebf.chunk.css.map",
+    "890.f3822791.chunk.js.map": "/react-blog/static/js/890.f3822791.chunk.js.map",
+    "835.a9c3cebf.chunk.css.map": "/react-blog/static/css/835.a9c3cebf.chunk.css.map",
+    "835.04cb5fae.chunk.js.map": "/react-blog/static/js/835.04cb5fae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2f91aaf4.js"
+    "static/css/main.5ff9b6b0.css",
+    "static/js/main.9e415af6.js"
   ]
 }
