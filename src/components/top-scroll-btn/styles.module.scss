@@ -1,0 +1,23 @@
+.icontop {
+  position: fixed;
+  bottom: 4%;
+  right: 1%;
+  z-index: 2;
+  text-align: right;
+  cursor: pointer;
+}
+
+.designicon {
+  background-color: #26c;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: right;
+  width: 40px;
+  display: inline-block;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
