@@ -13,7 +13,7 @@ const Shell = () => {
     restDelta: 0.001,
   });
   return (
-    <main>
+    <main className={styles.mainContainer}>
       <motion.section className={styles.progressBar} style={{ scaleX }} />
       <h1 className={styles.heading}>Magical React</h1>
       <Suspense fallback={<Skeleton />}>

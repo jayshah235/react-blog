@@ -60,3 +60,9 @@
     flex-direction: column;
   }
 }
+
+@media (max-width: 780px) {
+  .inlineImages {
+    flex-direction: column;
+  }
+}

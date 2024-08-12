@@ -6,7 +6,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
-  padding: 20px 40px;
   background: rgb(18 21 29/1);
   color: rgb(255 255 255/1);
 }
@@ -50,4 +49,16 @@ figcaption {
   margin-bottom: 20px;
   text-align: center;
   text-wrap: nowrap;
+}
+
+@media (max-width: 780px) {
+  li,
+  p,
+  .colorBlue {
+    font-size: 14px;
+  }
+
+  figcaption {
+    text-wrap: wrap;
+  }
 }
