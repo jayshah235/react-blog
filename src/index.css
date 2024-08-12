@@ -49,4 +49,5 @@ figcaption {
   font-weight: 500;
   margin-bottom: 20px;
   text-align: center;
+  text-wrap: nowrap;
 }

@@ -33,20 +33,25 @@
   flex-basis: 60%;
 }
 
+.wid50 {
+  flex-basis: 50%;
+}
+
 .column2 {
   @include gridColumn(2);
 }
 
 .inlineImages {
   display: flex;
-  gap: 10px;
+  gap: 20px;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 
   figure {
-    flex-basis: 38%;
+    flex-basis: 25%;
     flex-grow: 1;
+    margin: 0;
   }
 }
 

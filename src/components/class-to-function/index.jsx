@@ -9,7 +9,7 @@ const ClassToFunc = () => {
         ***** Class and Functional components in React *****
       </p>
       <div className={styles.inlineItems}>
-        <div className={styles.wid60}>
+        <div className={styles.wid50}>
           <h3 className={styles.subTitle}>Class Components:-</h3>
           <ul>
             <li>
@@ -36,7 +36,7 @@ const ClassToFunc = () => {
             </li>
           </ul>
         </div>
-        <div className={styles.wid40}>
+        <div className={styles.wid50}>
           <figure>
             <img src={classImage} alt="class component" />
           </figure>
